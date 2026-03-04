@@ -596,3 +596,4 @@ JWTForge is for **authorized security testing, CTFs, and educational use only**.
 Made with ☕ and too much JWT research.
 
 </div>
+Line from teammate
